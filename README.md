@@ -5,3 +5,6 @@ Submission for the Final Project of this class. Work done by Abdul Fayeed Abdul 
 Project title: Predicting the Capacity Fade Curves in Rechargeable Lithium-ion Batteries
 
 December 22nd, 2023.
+
+Raw data were obtained from the following:
+
